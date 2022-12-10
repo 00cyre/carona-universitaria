@@ -20,7 +20,7 @@
   },
   "homepage": "https://gitlab.com/braga-arthur/carona-universitaria#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "reload": "^3.0.1",
     "socket.io": "^2.2.0"
   }
